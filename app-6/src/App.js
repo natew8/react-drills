@@ -1,6 +1,5 @@
 // The App component should be responsible for getting new tasks and storing the list of tasks. 
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Todo from "./Todo";
 
